@@ -14,7 +14,7 @@ Esta apresentação mostra um pouco de como funciona o Git na máquina, mas para
 
 [Clik aqui e acese a pagina do GitHub](https://github.com/)
 
- ### Abaixo irei listar uma lista dos primeiros comandos do Git juntamente com a função de cada um deles
+ ### Principais Comandos 
 
 `git clone`  [link do repositório]  
 `git status` (Depois do git status você vai ter um log das alterações dos arquivos, quando tá vermelho é que não tá na lista dos arquivos que vai subir)  
