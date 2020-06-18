@@ -1,7 +1,7 @@
  Guia de estudos Git ![](/img/img.jpg) 
 ===
 
-#### Olá seja bem-vindo ao guia de inicialização ao Git, me chamo Filipe Barbosa e assim como você sou um entusiasta dos códigos e aluno da PodCodar.
+#### Olá seja bem-vindo ao guia de inicialização a Git, me chamo Filipe Barbosa e assim como você sou um entusiasta dos códigos e aluno da PodCodar.
 
 Já ouviu falar em Git? Do que se trata? Para que serve? Bem, vamos responder todas essas questões no decorrer do texto.
 Git é uma ferramenta de gerenciamento de controle de versão de código, ou seja, ele registra todas as alterações feitas no decorrer do código, e você ou qualquer membro da organização podem acessar sempre que quiserem e recuperar versões especificas do produto. Bacana não ?!
