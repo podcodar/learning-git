@@ -22,6 +22,9 @@ https://www.youtube.com/watch?v=WVLhm1AMeYE
 Esta apresentação mostra um pouco de como funciona o Git na máquina, mas para conseguir subir o nosso código precisamos de um lugar na nuvem para que ele fique guardado e também para que possamos subir e baixar o código. Para isso, iremos utilizar o Github, um serviço on-line de hospedagem e gerenciamento de projetos git.
 
 
+Curso de Git: https://rogerdudler.github.io/git-guide/index.pt_BR.html
+
+
  #### Principais Comandos
 
 `git clone`  [link do repositório]
