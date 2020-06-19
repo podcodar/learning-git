@@ -27,19 +27,22 @@ Curso de Git: https://rogerdudler.github.io/git-guide/index.pt_BR.html
 
  #### Principais Comandos
 
-`git clone`  [link do repositório]
-`git status` (Depois do git status você vai ter um log das alterações dos arquivos, quando tá vermelho é que não tá na lista dos arquivos que vai subir)
-`git add`*.* (No lugar do . você pode colocar o nome do arquivo que você quer ou só um tipo específico, tipo .já, sobe só arquivos .js)
-`git commit -m` "Qualquer mensagem, uma boa prática. _é sempre iniciar o nome do commit com um verbo_"
-`git push --set-upstream origin` {nome da branch que vai subir} (se antes você quiser ver quais arquivos que vai subir só você da um git status)
-`git branch` **{nome da branch}** (Você cria uma branch com o nome que você coloca)
-`git checkout` **{nome da branch}**(Muda pra branch que você colocou)
-`git pull` (para baixar uma branch)
+`git clone`  [link do repositório]  
+`git status` (Depois do git status você vai ter um log das alterações dos arquivos, quando tá vermelho é que não tá na lista dos arquivos que vai subir)  
+`git add`*.* (No lugar do . você pode colocar o nome do arquivo que você quer ou só um tipo específico, tipo .já, sobe só arquivos .js)  
+`git commit -m` "Qualquer mensagem, uma boa prática. _é sempre iniciar o nome do commit com um verbo_"  
+`git push --set-upstream origin` {nome da branch que vai subir} (se antes você quiser ver quais arquivos que vai subir só você da um git status)  
+`git branch` **{nome da branch}** (Você cria uma branch com o nome que você coloca)  
+`git checkout` **{nome da branch}**(Muda pra branch que você colocou)  
+`git pull` (para baixar uma branch)  
 
 Agora que já conhecemos todos esses comandos tem um site muito legal onde da pra aplicar um pouco deles e ver o que está acontecendo em nosso repositório, assim podemos melhorar nosso entendimento e familiarizar com a ferramenta antes de iniciar no ambiente de produção.
 [click aqui e comece agora a praticar seus conhecimentos](https://learngitbranching.js.org/?locale=pt_BR)
 
-**Espero que tenham gostado desse material e não se esqueça. [Acesse nosso blog](https://podcodar.github.io/)**
+[Acesse nosso blog](https://podcodar.github.io/)  
+
+**Espero que tenham gostado desse material e não se esqueça.**
+ 
 
 ## *Sim, Você PodCodar!!!*
 
